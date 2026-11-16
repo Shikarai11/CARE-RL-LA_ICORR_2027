@@ -1,0 +1,21 @@
+# Participant data and built datasets: never commit them
+data/*
+!data/README.md
+!data/reward_ready_normative_feature_refs.csv
+*.pkl
+
+# Results of runs and controls
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
