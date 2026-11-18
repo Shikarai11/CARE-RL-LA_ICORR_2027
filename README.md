@@ -72,7 +72,7 @@ The decision step is a **walking block** of 60 gait cycles on a treadmill, durin
 
 **State.** Six event-based features $f^i$, computed for each gait cycle from the prosthesis recordings:
 <p align="center">
-  <img src="docs/figures/fig_features-1.png" alt="Ankle angle, angular speed, torque and power over a gait cycle, with the six state features marked" width="80%">
+  <img src="docs/figures/fig_features.png" alt="Ankle angle, angular speed, torque and power over a gait cycle, with the six state features marked" width="80%">
 </p>
 
 | | Feature | Column in the data |
